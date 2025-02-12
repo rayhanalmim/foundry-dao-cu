@@ -12,6 +12,7 @@ out/
 docs/
 
 # Dotenv file
-.env
 
 zkout/
+config.bat
+node_modules
